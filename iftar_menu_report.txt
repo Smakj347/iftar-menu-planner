@@ -1,0 +1,36 @@
+====================================================================
+IFTAR MENU PLANNER - SUMMARY REPORT
+Generated At: 2026-11-23 22:27:28
+====================================================================
+
+1. SAVED IFTAR DISHES
+--------------------------------------------------------------------
+ID    Dish Name                  Category         Cost (SAR)  Servings
+--------------------------------------------------------------------
+1     Lamb Kabsa                 Main Dish             85.00         6
+2     Lentil Soup                Soup                  18.50         6
+3     Cheese Sambosa             Appetizer             24.00         6
+4     Fattoush Salad             Side Dish             20.00         4
+5     Kunafa                     Dessert               35.00         6
+6     Vimto & Laban              Beverage              22.00         6
+8     Lentil Soup                Side Dish             18.50         6
+--------------------------------------------------------------------
+
+2. COST BREAKDOWN BY CATEGORY
+--------------------------------------------------------------------
+Main Dish                :      85.00 SAR
+Soup                     :      18.50 SAR
+Appetizer                :      24.00 SAR
+Side Dish                :      38.50 SAR
+Dessert                  :      35.00 SAR
+Beverage                 :      22.00 SAR
+--------------------------------------------------------------------
+
+3. OVERALL SUMMARY
+--------------------------------------------------------------------
+Total Saved Dishes        : 7
+Total Servings            : 40
+Total Estimated Cost      : 223.00 SAR
+Average Cost per Dish     : 31.86 SAR
+Estimated Cost per Serving: 5.58 SAR
+====================================================================
